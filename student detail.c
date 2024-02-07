@@ -30,6 +30,6 @@ int main ()
     printf("How old are you?\t");
     scanf("%d",&yourage);
     printf("You are %d years old and your name is %c\n\n\n",yourage,yourname);
-   system("pause");
+     system("pause");
     return(0);
 }
